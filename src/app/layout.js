@@ -5,19 +5,19 @@ import { Analytics } from "@vercel/analytics/react";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "GDSC Poornima University",
+  title: "GDSC Bundelkhand Institute of Engineering and Technology, Jhansi",
   image: "",
   type: "website",
-  description: "This is the leaderboard for the GDSC PU Jams.",
-  keywords: ["gccp", "jams", "pu", "gdscpu"],
+  description: "This is the leaderboard for the GDSC BIET Jhansi.",
+  keywords: ["gdsc", "dsa", "cp", "gdscbiet"],
   robots: "index,follow",
 
-  "og:title": "GDSC PU Leaderboard",
+  "og:title": "GDSC BIET Leaderboard",
   "og:image": "",
-  "og:description": "This is the leaderboard for the GDSC PU Jams.",
+  "og:description": "This is the leaderboard for the GDSC BIET Jams.",
   "twitter:card": "summary_large_image",
-  "twitter:title": "GDSC PU Leaderboard",
-  "twitter:description": "This is the leaderboard for the GDSC PU Jams.",
+  "twitter:title": "GDSC BIET Leaderboard",
+  "twitter:description": "This is the leaderboard for the GDSC BIET Jams.",
   "twitter:image": "",
   "twitter:site": "@gdscpu",
 };

@@ -58,7 +58,7 @@ export default function Home() {
             </div>
             <div className="text flex flex-col justify-start items-start">
               <p className="text-base">Google Developer Student Club</p>
-              <p className="text-xs">Poornima University, Jaipur</p>
+              <p className="text-xs">BUNDELKHAND INSTITUTE OF ENGINEERING AND TECHNOLOGY, JHANSI</p>
             </div>
           </div>
 
@@ -128,12 +128,12 @@ export default function Home() {
       <TableIndex />
 
       <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">
-        Devloped By{" "}
+        Site Managed By{" "}
         <a
           href="https://avayyyyyyy.github.io/shubhlovesweb3/"
           className="text-orange-400"
         >
-          Shubhankit Jain
+          GDSC-BIET Technical Team
         </a>
       </div>
     </>
