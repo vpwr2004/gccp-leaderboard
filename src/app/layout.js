@@ -19,7 +19,7 @@ export const metadata = {
   "twitter:title": "GDSC BIET Leaderboard",
   "twitter:description": "This is the leaderboard for the GDSC BIET Jams.",
   "twitter:image": "",
-  "twitter:site": "@gdscpu",
+  "twitter:site": "@gdscbiet",
 };
 
 export default function RootLayout({ children }) {
