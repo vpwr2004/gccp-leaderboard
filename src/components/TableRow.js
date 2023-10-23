@@ -30,7 +30,7 @@ function TableRow({ participant }) {
               : "bg-yellow-200 text-yellow-600"
           }`}
         >
-          {participant["Institution"] == "Bundelkhand Institute of Engineering and Technology Jhansi"
+          {participant["Institution"] == "Bundelkhand Institute of Engineering & Technology - Jhansi"
             ? "BIET"
             : "Other"}
         </div>
